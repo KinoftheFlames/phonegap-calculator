@@ -1,0 +1,39 @@
+// body {
+// 	background: #8FD8F0;
+// }
+
+
+.container {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.row {
+	margin-bottom:10px;
+}
+
+.logo {
+	padding-right:5%;
+	padding-bottom:8%;
+}
+
+.output {
+	text-align: right;
+}
+
+// .btn:hover{
+// 	background-color:#FFF;
+// 	border-color:#CCC;
+// }
+
+.calc-input {
+	padding: 0 10px;
+}
+
+.calc-input button {
+	width:100%;
+}
+
+.calc-input > .row > div {
+	padding: 0 5px;
+}
