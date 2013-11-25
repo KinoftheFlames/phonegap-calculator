@@ -1,4 +1,4 @@
-Phonegap Calculator
+PhoneGap Calculator
 ===================
 
-A small app I made while learning Phonegap.
+This is a small hybrid mobile app I made while researching PhoneGap and Angular.js.
